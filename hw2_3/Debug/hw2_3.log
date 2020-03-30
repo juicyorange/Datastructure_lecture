@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\김태영\source\repos\lab01\hw2_3\main.cpp(20,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\김태영\source\repos\lab01\hw2_3\main.cpp(84,45): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\김태영\source\repos\lab01\hw2_3\main.cpp(84,78): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\김태영\source\repos\lab01\hw2_3\main.cpp(107,45): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\김태영\source\repos\lab01\hw2_3\main.cpp(107,78): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\김태영\source\repos\lab01\hw2_3\main.cpp(130,45): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\김태영\source\repos\lab01\hw2_3\main.cpp(130,78): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\김태영\source\repos\lab01\hw2_3\main.cpp(154,16): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+  hw2_3.vcxproj -> C:\Users\김태영\source\repos\lab01\Debug\hw2_3.exe
